@@ -1,0 +1,28 @@
+
+.card{
+  background-color:rgba(113, 176, 171, 0.7);
+  width: 200px;
+  height: 200px; 
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 1px  1px 5px #000;
+  cursor: pointer;
+ }
+ .card:hover{
+   box-shadow: 1px 1px 1px 1px silver;
+ } 
+
+ .card-top{
+   width: 90%;
+   height: 50%;
+   margin: auto;
+ }
+ .card-bottom{
+   width: 90%;
+   height: 50%;
+   margin: auto;
+ }
+ .card-img{
+   width:  50%;
+ }

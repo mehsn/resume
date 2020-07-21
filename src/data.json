@@ -1,0 +1,60 @@
+{
+  "title": "Hello , I'm hsn",
+  "subtitle": "js dev | react | css | html ",
+  "links": {
+    "stackOverflow": "https://stackoverflow.com/story/mihsn",
+    "github":"https://github.com/mehsn",
+      "mail": "hsn@gmail.com"
+},
+  "section": [
+    {
+      "title": "About",
+      "items": [
+        {
+        "type": "Hello , I'm hsn",
+        "contents":[
+          "My first name is hsn",
+          "I like programming very much",
+          "I always try to achieve the best result",
+          "I believe that thanks to God, we can succeed with hope and perseverance"
+        ] 
+      }
+    ]
+    },
+    {
+      "title": "skills",
+      "items":[ 
+        {
+        "type": "card",
+        "contents": {
+          "image": "./img/js.png",
+          "title": "js"
+        }
+      },
+      {
+        "type": "card",
+        "contents": {
+          "image": "./img/react.png",
+          "title": "react"
+        }
+      },{
+        "type": "card",
+        "contents": {
+          "image": "./img/css.png",
+          "title": "css"
+        }
+      },{
+        "type": "card",
+        "contents": {
+          "image": "./img/html.png",
+          "title": "html"
+        }
+      }
+
+
+      ]
+    }
+     
+      
+  ]
+}
