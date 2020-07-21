@@ -1,0 +1,13 @@
+.card-master{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+
+    flex: auto;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+
+}
